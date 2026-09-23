@@ -1,0 +1,36 @@
+// Advertisements 2.1
+// by Tsunami
+//
+// Types
+// -----
+// center: Center message
+// chat: Chat message
+// hint: Hint message
+// menu: Menu message
+// top: Top message
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+
+"Advertisements"
+{
+    "1"
+    {
+        "chat"  "{purple}[server]{default} You can type {green}!rtv{default} and {green}!nominate{default} to choose the next map."
+    }
+    "2"
+    {
+        "chat"  "{purple}[server]{default} Remember, {red}toxicity{default} and {red}harassment{default} of any kind will not be tolerated."
+    }
+    "3"
+    {
+        "chat"  "{purple}[server]{default} Consider buying us a {gold}coffee{default} to help the servers stay up! Check out {green}ko-fi.com/comptf2c{default} for more information."
+    }
+    "4"
+    {
+        "chat"  "{purple}[server]{default} If you have any issues, please contact {gold}Xinayder{default}, {gold}Guven{default} or {gold}kotowiski{default} on the TF2C Discord server."
+    }
+}
