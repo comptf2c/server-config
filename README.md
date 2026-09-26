@@ -23,3 +23,4 @@ This is a repository containing base server config files and plugins that should
 - [MGEMod](https://github.com/mgetf/MGEMod)
 - [NativeVotes](https://github.com/Heapons/sourcemod-nativevotes-updated)
 - [SoapDM](https://github.com/sapphonie/SOAP-TF2DM)
+- [Stripper](https://github.com/idk1703/stripper-source)
